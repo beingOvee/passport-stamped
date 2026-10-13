@@ -11,16 +11,6 @@ Passport Stamped turns the places you've visited into a personal travel map.
 
 No account is needed. Everything is saved in your own browser. You can export a backup file to keep a copy or move your passport to another device.
 
-## Running it
-
-The whole site is one file, `index.html`. Open it in a browser, or publish it with GitHub Pages:
-
-1. Go to **Settings → Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Select the `main` branch and the `/ (root)` folder, then save.
-
-The site will appear at `https://<your-username>.github.io/passport-stamped/` after a minute or two.
-
 ## Map data
 
 - **Countries:** [Natural Earth](https://www.naturalearthdata.com/), 1:50m Admin 0 countries. Public domain.
